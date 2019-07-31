@@ -1,0 +1,53 @@
+#hero{
+  height: 100vh;
+  background: pink;
+  margin-bottom: 100px;
+}
+#work{
+
+}
+#about{
+
+}
+#contact{
+
+}
+#nav{
+  display: inline;
+}
+#skills{
+
+}
+section{
+  margin-bottom: 100px;
+}
+ul{
+  list-style: none;
+  display: inline;
+  float: right;
+  margin-top: 30px !important;
+  margin-right: 30px !important; 
+}
+li{
+  display: inline;
+  padding: 20px !important;
+}
+.card{
+  border: none !important;
+  text-align: center;
+}
+.smIcons{
+  height: 30px;
+  width: 30px;
+}
+.cardImg{
+  height: 150px;
+  width: 150px;
+  background: pink;
+  border-radius: 100px;
+  margin: 25px auto;
+
+}
+footer{
+  text-align:center;
+}
